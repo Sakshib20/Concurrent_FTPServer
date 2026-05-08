@@ -1,10 +1,10 @@
-⚙️ Concurrent FTP Server: Multi-Client File Transfer System
+⚙️ # Concurrent FTP Server: Multi-Client File Transfer System
 
-📌 Project Overview
+📌 # Project Overview
 
 This project is an industrial-grade Concurrent FTP Server implemented in C on Linux. It facilitates simultaneous file downloads for multiple clients using socket programming and process-level isolation. The server is designed to demonstrate high-concurrency handling and reliable data transmission through a custom communication protocol.
 
-🛠 Tech Stack & Environment
+🛠 # Tech Stack & Environment
 
 Language: C (C11 standard)
 
