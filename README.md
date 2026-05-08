@@ -52,7 +52,6 @@ git clone [https://github.com/your-username/concurrent-ftp-server.git](https://g
 cd concurrent-ftp-server
 
 
-
 2. Compilation
 
 Compile both the server and client components using gcc:
@@ -64,13 +63,11 @@ gcc server.c -o server
 gcc client.c -o client
 
 
-
 3. Running the Server
 
 Start the server by specifying a port number:
 
 ./server 9090
-
 
 
 4. Running the Client
@@ -79,7 +76,6 @@ In a new terminal, request a file from the server:
 
 # Usage: ./client <Server_IP> <Port> <Filename>
 ./client 127.0.0.1 9090 Demo.txt
-
 
 
 📂 Project Structure
